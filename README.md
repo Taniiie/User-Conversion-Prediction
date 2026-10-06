@@ -1,4 +1,4 @@
-# 🏆 Nutrition Health Survey - Age Prediction & Conversion ML Pipeline
+User Conversion Prediction – Stacking Ensemble Pipeline
 
 An end-to-end, high-performance machine learning pipeline engineered for top-tier competitive performance on the **Nutrition Health Survey (NHANES)** dataset. Features leak-free out-of-fold target encoding, 20+ domain-engineered interaction features, multi-model probability stacking (CatBoost, LightGBM, XGBoost, ExtraTrees), Optuna hyperparameter tuning, and decision threshold optimization.
 
